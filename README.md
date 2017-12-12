@@ -21,6 +21,12 @@
 13. Expo will run this Twitter-clone app.
 
 -------------------------------------------
+### To Install vector-icons
+
+```
+npm install @expo/vector-icons --save
+
+```
 
 ### Documentations for reference
  * https://nativebase.io/ 
